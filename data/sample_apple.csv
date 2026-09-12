@@ -1,0 +1,259 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+100000,customer_1000,True,Tue Oct 31 22:10:08 +0000 2017,Ever since updating to iOS 11.0.2 my iPhone 6s is lagging terribly and apps keep crashing.,100001,
+100001,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We understand how frustrating unexpected lag can be. Have you tried restarting your iPhone since the update? If so, let us know which apps are crashing.",,100000
+100002,customer_1002,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Ever since updating to iOS 11.0.2 my iPhone 6s is lagging terribly and apps keep crashing.,100003,
+100003,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We understand how frustrating unexpected lag can be. Have you tried restarting your iPhone since the update? If so, let us know which apps are crashing.",,100002
+100004,customer_1004,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, ever since updating to ios 11.0.2 my iphone 6s is lagging terribly and apps keep crashing.",100005,
+100005,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We understand how frustrating unexpected lag can be. Have you tried restarting your iPhone since the update? If so, let us know which apps are crashing.",,100004
+100006,customer_1006,True,Tue Oct 31 22:10:08 +0000 2017,My Music app keeps closing immediately whenever I try to play a downloaded playlist.,100007,
+100007,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We'd love to help get your music playing smoothly. Does this happen on both Wi-Fi and cellular data? Also, which iOS version is running?",,100006
+100008,customer_1008,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport My Music app keeps closing immediately whenever I try to play a downloaded playlist.,100009,
+100009,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We'd love to help get your music playing smoothly. Does this happen on both Wi-Fi and cellular data? Also, which iOS version is running?",,100008
+100010,customer_1010,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, my music app keeps closing immediately whenever i try to play a downloaded playlist.",100011,
+100011,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We'd love to help get your music playing smoothly. Does this happen on both Wi-Fi and cellular data? Also, which iOS version is running?",,100010
+100012,customer_1012,True,Tue Oct 31 22:10:08 +0000 2017,Camera app displays a black screen when switching to rear camera on my iPhone 7.,100013,
+100013,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We want to help ensure your camera is working as expected. Let's see if restarting or closing the Camera app from the app switcher helps.,,100012
+100014,customer_1014,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Camera app displays a black screen when switching to rear camera on my iPhone 7.,100015,
+100015,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We want to help ensure your camera is working as expected. Let's see if restarting or closing the Camera app from the app switcher helps.,,100014
+100016,customer_1016,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, camera app displays a black screen when switching to rear camera on my iphone 7.",100017,
+100017,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We want to help ensure your camera is working as expected. Let's see if restarting or closing the Camera app from the app switcher helps.,,100016
+100018,customer_1018,True,Tue Oct 31 22:10:08 +0000 2017,Safari freezes completely when I try to open more than 3 tabs on iPad Air 2.,100019,
+100019,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Let's look into Safari for you. You can try clearing history and website data in Settings > Safari to see if that resolves the freeze.,,100018
+100020,customer_1020,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Safari freezes completely when I try to open more than 3 tabs on iPad Air 2.,100021,
+100021,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Let's look into Safari for you. You can try clearing history and website data in Settings > Safari to see if that resolves the freeze.,,100020
+100022,customer_1022,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, safari freezes completely when i try to open more than 3 tabs on ipad air 2.",100023,
+100023,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Let's look into Safari for you. You can try clearing history and website data in Settings > Safari to see if that resolves the freeze.,,100022
+100024,customer_1024,True,Tue Oct 31 22:10:08 +0000 2017,"Messages app won't send iMessages, only green SMS texts even with full LTE signal.",100025,
+100025,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We can help with iMessage! Check Settings > Messages to ensure iMessage is toggled on, and see if signing out and back in helps.",,100024
+100026,customer_1026,True,Tue Oct 31 22:10:08 +0000 2017,"@AppleSupport Messages app won't send iMessages, only green SMS texts even with full LTE signal.",100027,
+100027,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We can help with iMessage! Check Settings > Messages to ensure iMessage is toggled on, and see if signing out and back in helps.",,100026
+100028,customer_1028,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, messages app won't send imessages, only green sms texts even with full lte signal.",100029,
+100029,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We can help with iMessage! Check Settings > Messages to ensure iMessage is toggled on, and see if signing out and back in helps.",,100028
+100030,customer_1030,True,Tue Oct 31 22:10:08 +0000 2017,Notifications for WhatsApp and Mail stopped appearing on my lock screen after iOS 11 update.,100031,
+100031,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're here to help. Please head to Settings > Notifications and verify that 'Allow Notifications' and 'Show on Lock Screen' are enabled for both apps.,,100030
+100032,customer_1032,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Notifications for WhatsApp and Mail stopped appearing on my lock screen after iOS 11 update.,100033,
+100033,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're here to help. Please head to Settings > Notifications and verify that 'Allow Notifications' and 'Show on Lock Screen' are enabled for both apps.,,100032
+100034,customer_1034,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, notifications for whatsapp and mail stopped appearing on my lock screen after ios 11 update.",100035,
+100035,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're here to help. Please head to Settings > Notifications and verify that 'Allow Notifications' and 'Show on Lock Screen' are enabled for both apps.,,100034
+100036,customer_1036,True,Tue Oct 31 22:10:08 +0000 2017,Podcasts app won't sync my subscribed episodes between my Mac and iPhone.,100037,
+100037,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Let's get your podcasts syncing. Check Settings > Podcasts to verify 'Sync Podcasts' is enabled on your iPhone, and verify the same in iTunes on Mac.",,100036
+100038,customer_1038,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Podcasts app won't sync my subscribed episodes between my Mac and iPhone.,100039,
+100039,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Let's get your podcasts syncing. Check Settings > Podcasts to verify 'Sync Podcasts' is enabled on your iPhone, and verify the same in iTunes on Mac.",,100038
+100040,customer_1040,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, podcasts app won't sync my subscribed episodes between my mac and iphone.",100041,
+100041,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Let's get your podcasts syncing. Check Settings > Podcasts to verify 'Sync Podcasts' is enabled on your iPhone, and verify the same in iTunes on Mac.",,100040
+100042,customer_1042,True,Tue Oct 31 22:10:08 +0000 2017,Bluetooth disconnects from my car audio system every 5 minutes since the latest update.,100043,
+100043,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Let's get your car connection back on track. Try going to Settings > Bluetooth, tap the 'i' next to your car, tap 'Forget This Device', and pair again.",,100042
+100044,customer_1044,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Bluetooth disconnects from my car audio system every 5 minutes since the latest update.,100045,
+100045,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Let's get your car connection back on track. Try going to Settings > Bluetooth, tap the 'i' next to your car, tap 'Forget This Device', and pair again.",,100044
+100046,customer_1046,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, bluetooth disconnects from my car audio system every 5 minutes since the latest update.",100047,
+100047,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Let's get your car connection back on track. Try going to Settings > Bluetooth, tap the 'i' next to your car, tap 'Forget This Device', and pair again.",,100046
+100048,customer_1048,True,Tue Oct 31 22:10:08 +0000 2017,Keyboard click sounds are extremely loud randomly even when volume is turned down.,100049,
+100049,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're happy to look into this audio behavior. Does toggling 'Keyboard Clicks' off and on in Settings > Sounds & Haptics change this?,,100048
+100050,customer_1050,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Keyboard click sounds are extremely loud randomly even when volume is turned down.,100051,
+100051,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're happy to look into this audio behavior. Does toggling 'Keyboard Clicks' off and on in Settings > Sounds & Haptics change this?,,100050
+100052,customer_1052,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, keyboard click sounds are extremely loud randomly even when volume is turned down.",100053,
+100053,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're happy to look into this audio behavior. Does toggling 'Keyboard Clicks' off and on in Settings > Sounds & Haptics change this?,,100052
+100054,customer_1054,True,Tue Oct 31 22:10:08 +0000 2017,My iPhone storage says 'System' is taking up 45GB out of 64GB.,100055,
+100055,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,That is unexpected storage usage. Syncing your iPhone with iTunes on a computer often helps reorganize and clear temporary cache files.,,100054
+100056,customer_1056,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport My iPhone storage says 'System' is taking up 45GB out of 64GB.,100057,
+100057,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,That is unexpected storage usage. Syncing your iPhone with iTunes on a computer often helps reorganize and clear temporary cache files.,,100056
+100058,customer_1058,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, my iphone storage says 'system' is taking up 45gb out of 64gb.",100059,
+100059,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,That is unexpected storage usage. Syncing your iPhone with iTunes on a computer often helps reorganize and clear temporary cache files.,,100058
+100060,customer_1060,True,Tue Oct 31 22:10:08 +0000 2017,My iPhone 7 battery is draining from 100% to 20% in just two hours of normal use.,100061,
+100061,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We know battery life is essential. Check Settings > Battery to see which apps are using the most power over the last 24 hours.,,100060
+100062,customer_1062,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport My iPhone 7 battery is draining from 100% to 20% in just two hours of normal use.,100063,
+100063,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We know battery life is essential. Check Settings > Battery to see which apps are using the most power over the last 24 hours.,,100062
+100064,customer_1064,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, my iphone 7 battery is draining from 100% to 20% in just two hours of normal use.",100065,
+100065,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We know battery life is essential. Check Settings > Battery to see which apps are using the most power over the last 24 hours.,,100064
+100066,customer_1066,True,Tue Oct 31 22:10:08 +0000 2017,"My iPhone 6 shuts down completely when it hits 30% battery, especially when it's cold outside.",100067,
+100067,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We want to help with that shutdown issue. How long have you been noticing this behavior, and does it turn right back on when connected to power?",,100066
+100068,customer_1068,True,Tue Oct 31 22:10:08 +0000 2017,"@AppleSupport My iPhone 6 shuts down completely when it hits 30% battery, especially when it's cold outside.",100069,
+100069,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We want to help with that shutdown issue. How long have you been noticing this behavior, and does it turn right back on when connected to power?",,100068
+100070,customer_1070,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, my iphone 6 shuts down completely when it hits 30% battery, especially when it's cold outside.",100071,
+100071,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We want to help with that shutdown issue. How long have you been noticing this behavior, and does it turn right back on when connected to power?",,100070
+100072,customer_1072,True,Tue Oct 31 22:10:08 +0000 2017,The top earpiece speaker on my iPhone 8 has almost zero volume during regular phone calls.,100073,
+100073,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We'd like to help you hear your calls clearly. Please check Settings > Sounds to ensure volume is up, and check if the receiver mesh is clean.",,100072
+100074,customer_1074,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport The top earpiece speaker on my iPhone 8 has almost zero volume during regular phone calls.,100075,
+100075,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We'd like to help you hear your calls clearly. Please check Settings > Sounds to ensure volume is up, and check if the receiver mesh is clean.",,100074
+100076,customer_1076,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, the top earpiece speaker on my iphone 8 has almost zero volume during regular phone calls.",100077,
+100077,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We'd like to help you hear your calls clearly. Please check Settings > Sounds to ensure volume is up, and check if the receiver mesh is clean.",,100076
+100078,customer_1078,True,Tue Oct 31 22:10:08 +0000 2017,The home button on my iPhone 7 stopped giving haptic feedback when pressed.,100079,
+100079,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Let's see what might be causing the Home button to be unresponsive. Have you restarted the device, and does assistive touch work as a temporary option?",,100078
+100080,customer_1080,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport The home button on my iPhone 7 stopped giving haptic feedback when pressed.,100081,
+100081,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Let's see what might be causing the Home button to be unresponsive. Have you restarted the device, and does assistive touch work as a temporary option?",,100080
+100082,customer_1082,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, the home button on my iphone 7 stopped giving haptic feedback when pressed.",100083,
+100083,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Let's see what might be causing the Home button to be unresponsive. Have you restarted the device, and does assistive touch work as a temporary option?",,100082
+100084,customer_1084,True,Tue Oct 31 22:10:08 +0000 2017,My lightning cable only charges my phone when bent at a specific angle.,100085,
+100085,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Safety and reliable charging are important. We recommend discontinuing use of damaged cables. You can check if the cable is covered under warranty at an Apple Store.,,100084
+100086,customer_1086,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport My lightning cable only charges my phone when bent at a specific angle.,100087,
+100087,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Safety and reliable charging are important. We recommend discontinuing use of damaged cables. You can check if the cable is covered under warranty at an Apple Store.,,100086
+100088,customer_1088,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, my lightning cable only charges my phone when bent at a specific angle.",100089,
+100089,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Safety and reliable charging are important. We recommend discontinuing use of damaged cables. You can check if the cable is covered under warranty at an Apple Store.,,100088
+100090,customer_1090,True,Tue Oct 31 22:10:08 +0000 2017,My screen is visibly lifting and pushing out of the frame on the left side.,100091,
+100091,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We want to look into this immediately. Please stop using and charging the device, and send us a DM so we can arrange service: https://twitter.com/messages/compose?recipient_id=AppleSupport",,100090
+100092,customer_1092,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport My screen is visibly lifting and pushing out of the frame on the left side.,100093,
+100093,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We want to look into this immediately. Please stop using and charging the device, and send us a DM so we can arrange service: https://twitter.com/messages/compose?recipient_id=AppleSupport",,100092
+100094,customer_1094,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, my screen is visibly lifting and pushing out of the frame on the left side.",100095,
+100095,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We want to look into this immediately. Please stop using and charging the device, and send us a DM so we can arrange service: https://twitter.com/messages/compose?recipient_id=AppleSupport",,100094
+100096,customer_1096,True,Tue Oct 31 22:10:08 +0000 2017,Vibration motor makes an awful rattling metallic sound whenever I receive a call.,100097,
+100097,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We want to help ensure your iPhone works as designed. If a restart doesn't change the vibration sound, a hardware inspection at an Apple Authorized Service Provider may be best.",,100096
+100098,customer_1098,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Vibration motor makes an awful rattling metallic sound whenever I receive a call.,100099,
+100099,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We want to help ensure your iPhone works as designed. If a restart doesn't change the vibration sound, a hardware inspection at an Apple Authorized Service Provider may be best.",,100098
+100100,customer_1100,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, vibration motor makes an awful rattling metallic sound whenever i receive a call.",100101,
+100101,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"We want to help ensure your iPhone works as designed. If a restart doesn't change the vibration sound, a hardware inspection at an Apple Authorized Service Provider may be best.",,100100
+100102,customer_1102,True,Tue Oct 31 22:10:08 +0000 2017,"Microphone does not pick up my voice during FaceTime calls, but voice memos sound clear.",100103,
+100103,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,FaceTime uses the front microphone near the receiver. Let's make sure the microphone opening near the front camera is unobstructed and test with a video recording.,,100102
+100104,customer_1104,True,Tue Oct 31 22:10:08 +0000 2017,"@AppleSupport Microphone does not pick up my voice during FaceTime calls, but voice memos sound clear.",100105,
+100105,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,FaceTime uses the front microphone near the receiver. Let's make sure the microphone opening near the front camera is unobstructed and test with a video recording.,,100104
+100106,customer_1106,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, microphone does not pick up my voice during facetime calls, but voice memos sound clear.",100107,
+100107,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,FaceTime uses the front microphone near the receiver. Let's make sure the microphone opening near the front camera is unobstructed and test with a video recording.,,100106
+100108,customer_1108,True,Tue Oct 31 22:10:08 +0000 2017,iPhone screen has vertical green lines running down the display after a minor drop.,100109,
+100109,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're sorry to hear about the display lines. That indicates hardware display damage. You can check repair options and pricing at https://support.apple.com/iphone/repair/service/screen-replacement,,100108
+100110,customer_1110,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport iPhone screen has vertical green lines running down the display after a minor drop.,100111,
+100111,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're sorry to hear about the display lines. That indicates hardware display damage. You can check repair options and pricing at https://support.apple.com/iphone/repair/service/screen-replacement,,100110
+100112,customer_1112,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, iphone screen has vertical green lines running down the display after a minor drop.",100113,
+100113,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're sorry to hear about the display lines. That indicates hardware display damage. You can check repair options and pricing at https://support.apple.com/iphone/repair/service/screen-replacement,,100112
+100114,customer_1114,True,Tue Oct 31 22:10:08 +0000 2017,"The back glass on my iPhone 8 cracked without being dropped, just charging overnight.",100115,
+100115,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We'd like to gather more details regarding this. Please send us a direct message with your serial number and photos if possible so we can advise.,,100114
+100116,customer_1116,True,Tue Oct 31 22:10:08 +0000 2017,"@AppleSupport The back glass on my iPhone 8 cracked without being dropped, just charging overnight.",100117,
+100117,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We'd like to gather more details regarding this. Please send us a direct message with your serial number and photos if possible so we can advise.,,100116
+100118,customer_1118,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, the back glass on my iphone 8 cracked without being dropped, just charging overnight.",100119,
+100119,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We'd like to gather more details regarding this. Please send us a direct message with your serial number and photos if possible so we can advise.,,100118
+100120,customer_1120,True,Tue Oct 31 22:10:08 +0000 2017,I am locked out of my Apple ID because I forgot my security questions and old phone is lost.,100121,
+100121,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Account security is critical to us. You can initiate account recovery securely by visiting https://iforgot.apple.com from any trusted browser.,,100120
+100122,customer_1122,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport I am locked out of my Apple ID because I forgot my security questions and old phone is lost.,100123,
+100123,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Account security is critical to us. You can initiate account recovery securely by visiting https://iforgot.apple.com from any trusted browser.,,100122
+100124,customer_1124,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, i am locked out of my apple id because i forgot my security questions and old phone is lost.",100125,
+100125,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Account security is critical to us. You can initiate account recovery securely by visiting https://iforgot.apple.com from any trusted browser.,,100124
+100126,customer_1126,True,Tue Oct 31 22:10:08 +0000 2017,"I received an email saying my Apple ID was accessed from Russia, but I live in Chicago!",100127,
+100127,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"If you suspect unauthorized access, immediately change your Apple ID password at https://appleid.apple.com and review your trusted devices.",,100126
+100128,customer_1128,True,Tue Oct 31 22:10:08 +0000 2017,"@AppleSupport I received an email saying my Apple ID was accessed from Russia, but I live in Chicago!",100129,
+100129,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"If you suspect unauthorized access, immediately change your Apple ID password at https://appleid.apple.com and review your trusted devices.",,100128
+100130,customer_1130,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, i received an email saying my apple id was accessed from russia, but i live in chicago!",100131,
+100131,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"If you suspect unauthorized access, immediately change your Apple ID password at https://appleid.apple.com and review your trusted devices.",,100130
+100132,customer_1132,True,Tue Oct 31 22:10:08 +0000 2017,Keep getting repeated two-factor authentication popups on my screen asking for approval.,100133,
+100133,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"If you did not initiate a login, tap 'Don't Allow' immediately and change your Apple ID password at https://appleid.apple.com to keep your account secure.",,100132
+100134,customer_1134,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Keep getting repeated two-factor authentication popups on my screen asking for approval.,100135,
+100135,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"If you did not initiate a login, tap 'Don't Allow' immediately and change your Apple ID password at https://appleid.apple.com to keep your account secure.",,100134
+100136,customer_1136,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, keep getting repeated two-factor authentication popups on my screen asking for approval.",100137,
+100137,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"If you did not initiate a login, tap 'Don't Allow' immediately and change your Apple ID password at https://appleid.apple.com to keep your account secure.",,100136
+100138,customer_1138,True,Tue Oct 31 22:10:08 +0000 2017,Bought an iPad on eBay and it has someone else's iCloud Activation Lock on it.,100139,
+100139,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Activation Lock requires the original account owner's credentials to remove. We recommend contacting the seller to request they remove the device from their account at iCloud.com.,,100138
+100140,customer_1140,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Bought an iPad on eBay and it has someone else's iCloud Activation Lock on it.,100141,
+100141,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Activation Lock requires the original account owner's credentials to remove. We recommend contacting the seller to request they remove the device from their account at iCloud.com.,,100140
+100142,customer_1142,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, bought an ipad on ebay and it has someone else's icloud activation lock on it.",100143,
+100143,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Activation Lock requires the original account owner's credentials to remove. We recommend contacting the seller to request they remove the device from their account at iCloud.com.,,100142
+100144,customer_1144,True,Tue Oct 31 22:10:08 +0000 2017,My iPhone was stolen at a club last night! How do I erase my personal data remotely?,100145,
+100145,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're sorry to hear that. You can mark it as lost and remotely erase it by logging into https://icloud.com/find from any web browser.,,100144
+100146,customer_1146,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport My iPhone was stolen at a club last night! How do I erase my personal data remotely?,100147,
+100147,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're sorry to hear that. You can mark it as lost and remotely erase it by logging into https://icloud.com/find from any web browser.,,100146
+100148,customer_1148,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, my iphone was stolen at a club last night! how do i erase my personal data remotely?",100149,
+100149,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're sorry to hear that. You can mark it as lost and remotely erase it by logging into https://icloud.com/find from any web browser.,,100148
+100150,customer_1150,True,Tue Oct 31 22:10:08 +0000 2017,Someone charged $400 on my Apple ID for games I never downloaded. My account is compromised!,100151,
+100151,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We take unauthorized account activity very seriously. Please send us a DM immediately with your Apple ID email so we can secure your account: https://twitter.com/messages/compose?recipient_id=AppleSupport,,100150
+100152,customer_1152,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Someone charged $400 on my Apple ID for games I never downloaded. My account is compromised!,100153,
+100153,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We take unauthorized account activity very seriously. Please send us a DM immediately with your Apple ID email so we can secure your account: https://twitter.com/messages/compose?recipient_id=AppleSupport,,100152
+100154,customer_1154,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, someone charged $400 on my apple id for games i never downloaded. my account is compromised!",100155,
+100155,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We take unauthorized account activity very seriously. Please send us a DM immediately with your Apple ID email so we can secure your account: https://twitter.com/messages/compose?recipient_id=AppleSupport,,100154
+100156,customer_1156,True,Tue Oct 31 22:10:08 +0000 2017,Why was I billed $14.99 for an Apple Music family plan when I cancelled it last week?,100157,
+100157,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We can help clarify your subscription charges. You can check and manage your active subscriptions anytime under Settings > [Your Name] > Subscriptions.,,100156
+100158,customer_1158,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Why was I billed $14.99 for an Apple Music family plan when I cancelled it last week?,100159,
+100159,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We can help clarify your subscription charges. You can check and manage your active subscriptions anytime under Settings > [Your Name] > Subscriptions.,,100158
+100160,customer_1160,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, why was i billed $14.99 for an apple music family plan when i cancelled it last week?",100161,
+100161,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We can help clarify your subscription charges. You can check and manage your active subscriptions anytime under Settings > [Your Name] > Subscriptions.,,100160
+100162,customer_1162,True,Tue Oct 31 22:10:08 +0000 2017,I want a refund for an app my 5-year-old child accidentally purchased in the App Store.,100163,
+100163,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We understand accidental purchases happen. You can easily request a refund by signing in with your Apple ID at https://reportaproblem.apple.com.,,100162
+100164,customer_1164,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport I want a refund for an app my 5-year-old child accidentally purchased in the App Store.,100165,
+100165,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We understand accidental purchases happen. You can easily request a refund by signing in with your Apple ID at https://reportaproblem.apple.com.,,100164
+100166,customer_1166,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, i want a refund for an app my 5-year-old child accidentally purchased in the app store.",100167,
+100167,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We understand accidental purchases happen. You can easily request a refund by signing in with your Apple ID at https://reportaproblem.apple.com.,,100166
+100168,customer_1168,True,Tue Oct 31 22:10:08 +0000 2017,My debit card keeps getting declined in the App Store even though my bank says funds are available.,100169,
+100169,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Let's see what's happening with your payment method. Check out this guide on updating your payment info: https://support.apple.com/HT201266 or verify billing address matches.,,100168
+100170,customer_1170,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport My debit card keeps getting declined in the App Store even though my bank says funds are available.,100171,
+100171,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Let's see what's happening with your payment method. Check out this guide on updating your payment info: https://support.apple.com/HT201266 or verify billing address matches.,,100170
+100172,customer_1172,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, my debit card keeps getting declined in the app store even though my bank says funds are available.",100173,
+100173,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Let's see what's happening with your payment method. Check out this guide on updating your payment info: https://support.apple.com/HT201266 or verify billing address matches.,,100172
+100174,customer_1174,True,Tue Oct 31 22:10:08 +0000 2017,Where can I find the official tax invoice / receipt for my iCloud 200GB monthly plan?,100175,
+100175,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,You can view and print your complete Apple purchase invoices at https://reportaproblem.apple.com or check the email receipts sent to your Apple ID email.,,100174
+100176,customer_1176,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Where can I find the official tax invoice / receipt for my iCloud 200GB monthly plan?,100177,
+100177,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,You can view and print your complete Apple purchase invoices at https://reportaproblem.apple.com or check the email receipts sent to your Apple ID email.,,100176
+100178,customer_1178,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, where can i find the official tax invoice / receipt for my icloud 200gb monthly plan?",100179,
+100179,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,You can view and print your complete Apple purchase invoices at https://reportaproblem.apple.com or check the email receipts sent to your Apple ID email.,,100178
+100180,customer_1180,True,Tue Oct 31 22:10:08 +0000 2017,How do I transfer all my photos from my old iPhone 6 to my new iPhone 8 without buying iCloud storage?,100181,
+100181,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Congrats on the new iPhone! You can use iTunes on a Mac or PC to make a full encrypted backup of your iPhone 6 and restore it to your iPhone 8.,,100180
+100182,customer_1182,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport How do I transfer all my photos from my old iPhone 6 to my new iPhone 8 without buying iCloud storage?,100183,
+100183,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Congrats on the new iPhone! You can use iTunes on a Mac or PC to make a full encrypted backup of your iPhone 6 and restore it to your iPhone 8.,,100182
+100184,customer_1184,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, how do i transfer all my photos from my old iphone 6 to my new iphone 8 without buying icloud storage?",100185,
+100185,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Congrats on the new iPhone! You can use iTunes on a Mac or PC to make a full encrypted backup of your iPhone 6 and restore it to your iPhone 8.,,100184
+100186,customer_1186,True,Tue Oct 31 22:10:08 +0000 2017,Can I pair my AirPods to an Android phone or a Windows laptop?,100187,
+100187,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Yes, AirPods can connect to non-Apple devices via standard Bluetooth! Just press and hold the setup button on the back of the charging case until the light flashes white.",,100186
+100188,customer_1188,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Can I pair my AirPods to an Android phone or a Windows laptop?,100189,
+100189,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Yes, AirPods can connect to non-Apple devices via standard Bluetooth! Just press and hold the setup button on the back of the charging case until the light flashes white.",,100188
+100190,customer_1190,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, can i pair my airpods to an android phone or a windows laptop?",100191,
+100191,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Yes, AirPods can connect to non-Apple devices via standard Bluetooth! Just press and hold the setup button on the back of the charging case until the light flashes white.",,100190
+100192,customer_1192,True,Tue Oct 31 22:10:08 +0000 2017,How do I turn off read receipts in iMessage for only specific people instead of everyone?,100193,
+100193,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"You can customize read receipts per conversation! Open the specific message thread, tap the 'i' or contact name at the top, and toggle 'Send Read Receipts'.",,100192
+100194,customer_1194,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport How do I turn off read receipts in iMessage for only specific people instead of everyone?,100195,
+100195,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"You can customize read receipts per conversation! Open the specific message thread, tap the 'i' or contact name at the top, and toggle 'Send Read Receipts'.",,100194
+100196,customer_1196,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, how do i turn off read receipts in imessage for only specific people instead of everyone?",100197,
+100197,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"You can customize read receipts per conversation! Open the specific message thread, tap the 'i' or contact name at the top, and toggle 'Send Read Receipts'.",,100196
+100198,customer_1198,True,Tue Oct 31 22:10:08 +0000 2017,How can I record my iPhone screen with audio in iOS 11?,100199,
+100199,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Screen Recording is a great feature! Go to Settings > Control Center > Customize Controls, add Screen Recording, then swipe up Control Center and long press the record button to toggle microphone audio.",,100198
+100200,customer_1200,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport How can I record my iPhone screen with audio in iOS 11?,100201,
+100201,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Screen Recording is a great feature! Go to Settings > Control Center > Customize Controls, add Screen Recording, then swipe up Control Center and long press the record button to toggle microphone audio.",,100200
+100202,customer_1202,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, how can i record my iphone screen with audio in ios 11?",100203,
+100203,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Screen Recording is a great feature! Go to Settings > Control Center > Customize Controls, add Screen Recording, then swipe up Control Center and long press the record button to toggle microphone audio.",,100202
+100204,customer_1204,True,Tue Oct 31 22:10:08 +0000 2017,Dropped off my MacBook Pro at Regent Street Genius Bar on Tuesday. How do I track repair progress?,100205,
+100205,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,You can easily track your repair status online anytime by visiting https://support.apple.com/repair and entering your Repair ID and postal code.,,100204
+100206,customer_1206,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Dropped off my MacBook Pro at Regent Street Genius Bar on Tuesday. How do I track repair progress?,100207,
+100207,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,You can easily track your repair status online anytime by visiting https://support.apple.com/repair and entering your Repair ID and postal code.,,100206
+100208,customer_1208,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, dropped off my macbook pro at regent street genius bar on tuesday. how do i track repair progress?",100209,
+100209,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,You can easily track your repair status online anytime by visiting https://support.apple.com/repair and entering your Repair ID and postal code.,,100208
+100210,customer_1210,True,Tue Oct 31 22:10:08 +0000 2017,My iPhone X order status has been 'Preparing for Shipment' for 5 days. When will it arrive?,100211,
+100211,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We know you're excited for your new iPhone! You can view the most up-to-date delivery estimates by checking your order status at https://www.apple.com/orderstatus.,,100210
+100212,customer_1212,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport My iPhone X order status has been 'Preparing for Shipment' for 5 days. When will it arrive?,100213,
+100213,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We know you're excited for your new iPhone! You can view the most up-to-date delivery estimates by checking your order status at https://www.apple.com/orderstatus.,,100212
+100214,customer_1214,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, my iphone x order status has been 'preparing for shipment' for 5 days. when will it arrive?",100215,
+100215,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We know you're excited for your new iPhone! You can view the most up-to-date delivery estimates by checking your order status at https://www.apple.com/orderstatus.,,100214
+100216,customer_1216,True,Tue Oct 31 22:10:08 +0000 2017,Has Apple received my trade-in kit for my old iPhone? Tracking says delivered yesterday.,100217,
+100217,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Once your trade-in kit arrives at our processing center, you'll receive an email confirmation within 2-3 business days following inspection. You can DM us your quote number to check.",,100216
+100218,customer_1218,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Has Apple received my trade-in kit for my old iPhone? Tracking says delivered yesterday.,100219,
+100219,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Once your trade-in kit arrives at our processing center, you'll receive an email confirmation within 2-3 business days following inspection. You can DM us your quote number to check.",,100218
+100220,customer_1220,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, has apple received my trade-in kit for my old iphone? tracking says delivered yesterday.",100221,
+100221,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,"Once your trade-in kit arrives at our processing center, you'll receive an email confirmation within 2-3 business days following inspection. You can DM us your quote number to check.",,100220
+100222,customer_1222,True,Tue Oct 31 22:10:08 +0000 2017,This is the 3rd time my screen has had touch disease. Genius Bar was rude and refused to help. Awful service!,100223,
+100223,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We sincerely apologize for this experience; this does not reflect the standard of support we strive to provide. Please send us a DM with your case number so we can review this with our leadership.,,100222
+100224,customer_1224,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport This is the 3rd time my screen has had touch disease. Genius Bar was rude and refused to help. Awful service!,100225,
+100225,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We sincerely apologize for this experience; this does not reflect the standard of support we strive to provide. Please send us a DM with your case number so we can review this with our leadership.,,100224
+100226,customer_1226,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, this is the 3rd time my screen has had touch disease. genius bar was rude and refused to help. awful service!",100227,
+100227,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We sincerely apologize for this experience; this does not reflect the standard of support we strive to provide. Please send us a DM with your case number so we can review this with our leadership.,,100226
+100228,customer_1228,True,Tue Oct 31 22:10:08 +0000 2017,"Spent $2,500 on a MacBook Pro that died right after warranty ended. Apple is a ripoff, taking this to the BBB!",100229,
+100229,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We understand your deep frustration regarding this unexpected hardware failure. Please send us a direct message so a senior customer relations advisor can personally examine your case.,,100228
+100230,customer_1230,True,Tue Oct 31 22:10:08 +0000 2017,"@AppleSupport Spent $2,500 on a MacBook Pro that died right after warranty ended. Apple is a ripoff, taking this to the BBB!",100231,
+100231,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We understand your deep frustration regarding this unexpected hardware failure. Please send us a direct message so a senior customer relations advisor can personally examine your case.,,100230
+100232,customer_1232,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, spent $2,500 on a macbook pro that died right after warranty ended. apple is a ripoff, taking this to the bbb!",100233,
+100233,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We understand your deep frustration regarding this unexpected hardware failure. Please send us a direct message so a senior customer relations advisor can personally examine your case.,,100232
+100234,customer_1234,True,Tue Oct 31 22:10:08 +0000 2017,Waited an hour past my scheduled Genius Bar appointment while technicians stood around chatting.,100235,
+100235,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We apologize for the unacceptable wait time today. We value your time and would like to share your feedback with store management. Please DM us the store location and appointment time.,,100234
+100236,customer_1236,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Waited an hour past my scheduled Genius Bar appointment while technicians stood around chatting.,100237,
+100237,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We apologize for the unacceptable wait time today. We value your time and would like to share your feedback with store management. Please DM us the store location and appointment time.,,100236
+100238,customer_1238,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, waited an hour past my scheduled genius bar appointment while technicians stood around chatting.",100239,
+100239,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We apologize for the unacceptable wait time today. We value your time and would like to share your feedback with store management. Please DM us the store location and appointment time.,,100238
+100240,customer_1240,True,Tue Oct 31 22:10:08 +0000 2017,Apple sucks Android is 1000x better you guys are clowns 🤡,100241,
+100241,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Thanks for reaching out. We're here if you ever need technical assistance with any Apple product!,,100240
+100242,customer_1242,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Apple sucks Android is 1000x better you guys are clowns 🤡,100243,
+100243,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Thanks for reaching out. We're here if you ever need technical assistance with any Apple product!,,100242
+100244,customer_1244,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, apple sucks android is 1000x better you guys are clowns 🤡",100245,
+100245,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Thanks for reaching out. We're here if you ever need technical assistance with any Apple product!,,100244
+100246,customer_1246,True,Tue Oct 31 22:10:08 +0000 2017,Hey @AppleSupport happy Friday! What is Tim Cook's favorite iPhone color?,100247,
+100247,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Happy Friday to you as well! Hope you have a wonderful weekend ahead. We're here if you need any device support!,,100246
+100248,customer_1248,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Hey @AppleSupport happy Friday! What is Tim Cook's favorite iPhone color?,100249,
+100249,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Happy Friday to you as well! Hope you have a wonderful weekend ahead. We're here if you need any device support!,,100248
+100250,customer_1250,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, hey @applesupport happy friday! what is tim cook's favorite iphone color?",100251,
+100251,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,Happy Friday to you as well! Hope you have a wonderful weekend ahead. We're here if you need any device support!,,100250
+100252,customer_1252,True,Tue Oct 31 22:10:08 +0000 2017,Check out my new rap track on SoundCloud! Follow for follow!,100253,
+100253,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're here to assist with Apple products and technical questions. Have a great day!,,100252
+100254,customer_1254,True,Tue Oct 31 22:10:08 +0000 2017,@AppleSupport Check out my new rap track on SoundCloud! Follow for follow!,100255,
+100255,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're here to assist with Apple products and technical questions. Have a great day!,,100254
+100256,customer_1256,True,Tue Oct 31 22:10:08 +0000 2017,"Hey @AppleSupport, check out my new rap track on soundcloud! follow for follow!",100257,
+100257,AppleSupport,False,Tue Oct 31 22:15:32 +0000 2017,We're here to assist with Apple products and technical questions. Have a great day!,,100256

@@ -1,0 +1,134 @@
+{
+  "sample_size": 30,
+  "metrics": {
+    "grounding_faithfulness": {
+      "spearman_rho": 0.263,
+      "spearman_p_value": 0.1609,
+      "cohens_kappa_quadratic": 0.129,
+      "mean_absolute_error": 0.3,
+      "exact_agreement_pct": 70.0
+    },
+    "tone_match": {
+      "spearman_rho": 0.148,
+      "spearman_p_value": 0.4341,
+      "cohens_kappa_quadratic": 0.129,
+      "mean_absolute_error": 0.467,
+      "exact_agreement_pct": 53.3
+    },
+    "resolves_the_issue": {
+      "spearman_rho": 0.287,
+      "spearman_p_value": 0.1245,
+      "cohens_kappa_quadratic": 0.218,
+      "mean_absolute_error": 0.567,
+      "exact_agreement_pct": 50.0
+    },
+    "brand_voice_consistency": {
+      "spearman_rho": 0.438,
+      "spearman_p_value": 0.0155,
+      "cohens_kappa_quadratic": 0.322,
+      "mean_absolute_error": 0.267,
+      "exact_agreement_pct": 73.3
+    },
+    "overall_average": {
+      "spearman_rho": 0.137,
+      "mean_absolute_error": 0.383
+    }
+  },
+  "sample_evaluations": [
+    {
+      "id": "human_001",
+      "tweet": "Ever since updating to iOS 11.1 my battery drops 20% in 15 minutes.",
+      "drafted_reply": "We know how important your hardware and battery performance are. Check Settings > Battery to see app power usage, and let us know your device model so we can assist.",
+      "human_scores": {
+        "faithfulness": 5,
+        "tone": 5,
+        "resolution": 4,
+        "brand_voice": 5,
+        "average": 4.75
+      },
+      "judge_scores": {
+        "faithfulness": 5,
+        "tone": 5,
+        "resolution": 5,
+        "brand_voice": 5,
+        "average": 5.0
+      }
+    },
+    {
+      "id": "human_002",
+      "tweet": "My Music app crashes every time I tap on my offline playlists.",
+      "drafted_reply": "We understand how frustrating unexpected software glitches can be. Which iOS version is currently installed on your iPhone? Does restarting your device temporarily resolve this?",
+      "human_scores": {
+        "faithfulness": 4,
+        "tone": 5,
+        "resolution": 4,
+        "brand_voice": 4,
+        "average": 4.25
+      },
+      "judge_scores": {
+        "faithfulness": 5,
+        "tone": 5,
+        "resolution": 4,
+        "brand_voice": 5,
+        "average": 4.75
+      }
+    },
+    {
+      "id": "human_003",
+      "tweet": "Camera app is just showing a black screen after reboot.",
+      "drafted_reply": "We understand how frustrating unexpected software glitches can be. Which iOS version is currently installed on your iPhone? Does restarting your device temporarily resolve this?",
+      "human_scores": {
+        "faithfulness": 5,
+        "tone": 4,
+        "resolution": 3,
+        "brand_voice": 4,
+        "average": 4.0
+      },
+      "judge_scores": {
+        "faithfulness": 5,
+        "tone": 5,
+        "resolution": 4,
+        "brand_voice": 5,
+        "average": 4.75
+      }
+    },
+    {
+      "id": "human_004",
+      "tweet": "Safari won't open any web pages on Wi-Fi.",
+      "drafted_reply": "We understand how frustrating unexpected software glitches can be. Which iOS version is currently installed on your iPhone? Does restarting your device temporarily resolve this?",
+      "human_scores": {
+        "faithfulness": 4,
+        "tone": 5,
+        "resolution": 4,
+        "brand_voice": 5,
+        "average": 4.5
+      },
+      "judge_scores": {
+        "faithfulness": 5,
+        "tone": 5,
+        "resolution": 5,
+        "brand_voice": 5,
+        "average": 5.0
+      }
+    },
+    {
+      "id": "human_005",
+      "tweet": "Calculator app gives wrong results when typing 1+2+3 rapidly.",
+      "drafted_reply": "We understand how frustrating unexpected software glitches can be. Which iOS version is currently installed on your iPhone? Does restarting your device temporarily resolve this?",
+      "human_scores": {
+        "faithfulness": 4,
+        "tone": 4,
+        "resolution": 4,
+        "brand_voice": 4,
+        "average": 4.0
+      },
+      "judge_scores": {
+        "faithfulness": 5,
+        "tone": 5,
+        "resolution": 4,
+        "brand_voice": 5,
+        "average": 4.75
+      }
+    }
+  ]
+}

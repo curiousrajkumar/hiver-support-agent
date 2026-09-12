@@ -1,0 +1,80 @@
+intents:
+  software_issue:
+    name: "Software Bug / OS Glitch"
+    description: "Customer experiences crashes, freezing, app failures, or unexpected behavior after an OS update or in native apps."
+    examples:
+      - "Ever since updating to iOS 11.1 my battery drops 20% in 15 minutes and apps keep stuttering."
+      - "My Music app crashes every time I tap on my playlists."
+      - "Camera app is just showing a black screen after reboot."
+    routing: "auto"
+    priority: "medium"
+
+  hardware_battery:
+    name: "Hardware & Battery Degradation"
+    description: "Customer reports physical defects, screen damage/lifting, speaker/microphone malfunctions, or severe battery health degradation."
+    examples:
+      - "My iPhone 7 battery health is at 74% and shuts down at 30% charge."
+      - "Top speaker stopped working during phone calls, only speakerphone works."
+      - "My screen is lifting off the frame near the volume buttons, is the battery swelling?"
+    routing: "auto_or_escalate"
+    priority: "high"
+
+  account_security:
+    name: "Apple ID, iCloud & Security"
+    description: "Inquiries regarding locked accounts, two-factor authentication issues, password resets, stolen devices, or compromised credentials."
+    examples:
+      - "I'm locked out of my Apple ID and the recovery email is an old work address I can't access."
+      - "Keep getting verification codes sent to my phone that I didn't request! Has someone hacked my account?"
+      - "Activation Lock is on a phone I bought secondhand, how do I remove it?"
+    routing: "escalate"
+    priority: "critical"
+
+  billing_subscription:
+    name: "Billing, Refunds & App Store"
+    description: "Questions about unexpected charges, subscription cancellations, refund requests, or App Store payment failures."
+    examples:
+      - "I was charged $9.99 for an app subscription I cancelled two weeks ago, need a refund."
+      - "Why does my card keep getting declined in the App Store when my bank says it's active?"
+      - "Accidentally purchased in-app currency, how do I dispute the charge?"
+    routing: "auto"
+    priority: "medium"
+
+  how_to_inquiry:
+    name: "Setup, Feature How-To & Sync"
+    description: "Customer requests instructions on configuring settings, data transfer, backup/restore, pairing accessories, or feature usage."
+    examples:
+      - "How do I transfer photos from my old iPhone to my Mac without iCloud?"
+      - "Can I pair two pairs of AirPods to one iPad at the same time?"
+      - "How do I turn off read receipts for just one contact in iMessage?"
+    routing: "auto"
+    priority: "low"
+
+  order_repair_status:
+    name: "Order, Repair & Shipping Status"
+    description: "Customer asks for tracking or status updates on an Apple Store order, trade-in kit, or Genius Bar repair depot return."
+    examples:
+      - "Dropped my MacBook off for keyboard repair on Monday (Repair ID: R19482), any update?"
+      - "My iPhone X order says preparing to ship for 4 days, when will tracking update?"
+      - "Did Apple receive my trade-in kit? Sent it via FedEx last Thursday."
+    routing: "auto_or_escalate"
+    priority: "medium"
+
+  complaint_frustration:
+    name: "Dissatisfaction / Escalated Anger"
+    description: "High-friction complaints about poor service, unhelpful Genius Bar visits, repeated product failures, or threats to switch brands/sue."
+    examples:
+      - "Fourth time my MacBook has kernel panicked. Your Genius Bar tech was completely dismissive. Disgraceful service!"
+      - "I've spent $3,000 on Apple gear and neither iMessage nor FaceTime works. Done with Apple, switching to Android."
+      - "Waiting 45 minutes past my Genius Bar appointment with zero communication. Unacceptable."
+    routing: "escalate"
+    priority: "critical"
+
+  spam_or_irrelevant:
+    name: "Spam, Chit-Chat & Irrelevant"
+    description: "Trolling, memes, unrelated brand mentions, greetings with no context, bot spam, or marketing replies."
+    examples:
+      - "Apple sucks lol Android for life 💀"
+      - "Hey @AppleSupport hope you have a nice Friday!"
+      - "Check out my new SoundCloud mixtape link in bio!"
+    routing: "auto"
+    priority: "low"

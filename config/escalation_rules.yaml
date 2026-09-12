@@ -1,0 +1,115 @@
+# Escalation Rules and Thresholds for AppleSupport AI Agent
+
+escalation_criteria:
+  # 1. Security & Account Vulnerabilities (Always Escalate)
+  account_security:
+    enabled: true
+    keywords:
+      - "hacked"
+      - "hack"
+      - "compromised"
+      - "locked out"
+      - "account is disabled"
+      - "id is disabled"
+      - "disabled in the app store"
+      - "unauthorized"
+      - "unauthorized purchase"
+      - "unauthorized charge"
+      - "stolen"
+      - "lost mode"
+      - "activation lock"
+      - "2fa"
+      - "two-factor"
+      - "verification code"
+      - "verification codes"
+      - "phishing"
+      - "suspicious activity"
+      - "identity theft"
+      - "tracking my location"
+      - "gift card"
+      - "gift cards"
+      - "fraud"
+      - "fraudulent"
+    action: "escalate"
+    reason: "Account security, compromised credentials, or fraud detection requires human tier-2 security agent."
+
+  # 2. Hardware Physical Hazards (Always Escalate)
+  hardware_hazard:
+    enabled: true
+    keywords:
+      - "bulging"
+      - "swelling"
+      - "swollen"
+      - "battery swelling"
+      - "swollen battery"
+      - "screen bulging"
+      - "screen lifting"
+      - "lifting off"
+      - "smoke"
+      - "smoking"
+      - "spark"
+      - "sparks"
+      - "fire"
+      - "burn"
+      - "burned"
+      - "melted"
+      - "melting"
+      - "exploded"
+      - "exploding"
+      - "shock"
+      - "electrical shock"
+      - "scorching"
+      - "hot to the touch"
+    action: "escalate"
+    reason: "Physical safety hazard reported (thermal/battery expansion). Immediate human safety protocol triggered."
+
+  # 3. Severe Customer Anger / Churn / Legal (Always Escalate)
+  high_sentiment_risk:
+    enabled: true
+    keywords:
+      - "lawyer"
+      - "sue"
+      - "lawsuit"
+      - "attorney"
+      - "legal action"
+      - "bbb"
+      - "better business bureau"
+      - "consumer protection"
+      - "worthless"
+      - "disgrace"
+      - "disgraceful"
+      - "fraudulent"
+      - "switching to android"
+      - "switching to samsung"
+      - "done with apple"
+      - "never buying apple again"
+      - "terrible customer service"
+      - "worst support"
+    action: "escalate"
+    reason: "Severe customer dissatisfaction, churn risk, or legal escalation."
+
+  # 4. Repeated Unresolved Dead-ends
+  repeated_issue:
+    enabled: true
+    patterns:
+      - "already tried that"
+      - "already reset"
+      - "already rebooted"
+      - "already updated"
+      - "tried everything"
+      - "third time"
+      - "fourth time"
+      - "keeps happening"
+      - "still not working after"
+    action: "escalate"
+    reason: "Customer has already exhausted first-line troubleshooting steps; requires senior specialist."
+
+  # 5. Thresholds
+  thresholds:
+    # If retrieval similarity score is lower than this, query is considered out-of-distribution
+    min_retrieval_similarity: 0.15
+    # If intent classifier confidence is lower than this, flag for human verification
+    min_intent_confidence: 0.60
+    # Cost asymmetry weights: C_fn = cost of missed escalation (bad!), C_fp = cost of false alarm
+    cost_missed_escalation: 5.0
+    cost_false_alarm_escalation: 1.0

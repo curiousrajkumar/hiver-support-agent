@@ -1,0 +1,30 @@
+{"id": "human_001", "intent": "software_issue", "tweet": "Ever since updating to iOS 11.1 my battery drops 20% in 15 minutes.", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 4, "human_brand_voice": 5}
+{"id": "human_002", "intent": "software_issue", "tweet": "My Music app crashes every time I tap on my offline playlists.", "human_faithfulness": 4, "human_tone": 5, "human_resolution": 4, "human_brand_voice": 4}
+{"id": "human_003", "intent": "software_issue", "tweet": "Camera app is just showing a black screen after reboot.", "human_faithfulness": 5, "human_tone": 4, "human_resolution": 3, "human_brand_voice": 4}
+{"id": "human_004", "intent": "software_issue", "tweet": "Safari won't open any web pages on Wi-Fi.", "human_faithfulness": 4, "human_tone": 5, "human_resolution": 4, "human_brand_voice": 5}
+{"id": "human_005", "intent": "software_issue", "tweet": "Calculator app gives wrong results when typing 1+2+3 rapidly.", "human_faithfulness": 4, "human_tone": 4, "human_resolution": 4, "human_brand_voice": 4}
+{"id": "human_006", "intent": "hardware_battery", "tweet": "My iPhone 7 battery health is at 74% and shuts down at 30% charge.", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_007", "intent": "hardware_battery", "tweet": "Top speaker stopped working during phone calls.", "human_faithfulness": 4, "human_tone": 4, "human_resolution": 3, "human_brand_voice": 4}
+{"id": "human_008", "intent": "hardware_battery", "tweet": "My screen is lifting off the frame near volume buttons.", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_009", "intent": "hardware_battery", "tweet": "Charging cable only works when bent at an angle.", "human_faithfulness": 5, "human_tone": 4, "human_resolution": 4, "human_brand_voice": 4}
+{"id": "human_010", "intent": "hardware_battery", "tweet": "Home button is scorching hot to the touch!", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_011", "intent": "account_security", "tweet": "Locked out of my Apple ID, recovery email is inaccessible.", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 4, "human_brand_voice": 5}
+{"id": "human_012", "intent": "account_security", "tweet": "Keep getting verification codes sent to my phone unprompted!", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_013", "intent": "account_security", "tweet": "Activation lock on secondhand iPad.", "human_faithfulness": 4, "human_tone": 4, "human_resolution": 4, "human_brand_voice": 4}
+{"id": "human_014", "intent": "account_security", "tweet": "My phone was stolen in Madrid! Need to protect data.", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_015", "intent": "account_security", "tweet": "Unauthorized $500 gift card purchase on my account.", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_016", "intent": "billing_subscription", "tweet": "Charged $9.99 for cancelled subscription, need refund.", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_017", "intent": "billing_subscription", "tweet": "Card declined in App Store but bank says active.", "human_faithfulness": 4, "human_tone": 4, "human_resolution": 4, "human_brand_voice": 4}
+{"id": "human_018", "intent": "billing_subscription", "tweet": "Accidentally bought in-game gems, need refund.", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_019", "intent": "billing_subscription", "tweet": "How to cancel HBO trial before it bills?", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_020", "intent": "how_to_inquiry", "tweet": "How do I transfer photos to Mac without iCloud?", "human_faithfulness": 5, "human_tone": 4, "human_resolution": 4, "human_brand_voice": 5}
+{"id": "human_021", "intent": "how_to_inquiry", "tweet": "Can I pair two AirPods to one iPad at same time?", "human_faithfulness": 4, "human_tone": 4, "human_resolution": 4, "human_brand_voice": 4}
+{"id": "human_022", "intent": "how_to_inquiry", "tweet": "How do I turn off read receipts for one person?", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_023", "intent": "order_repair_status", "tweet": "Track MacBook keyboard repair Repair ID: R19482.", "human_faithfulness": 5, "human_tone": 4, "human_resolution": 5, "human_brand_voice": 5}
+{"id": "human_024", "intent": "order_repair_status", "tweet": "iPhone X order preparing to ship for 4 days.", "human_faithfulness": 4, "human_tone": 4, "human_resolution": 3, "human_brand_voice": 4}
+{"id": "human_025", "intent": "order_repair_status", "tweet": "Genius Bar took iPhone 3 weeks ago and lost it.", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 4, "human_brand_voice": 5}
+{"id": "human_026", "intent": "complaint_frustration", "tweet": "Fourth time MacBook kernel panicked. Tech dismissive!", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 4, "human_brand_voice": 5}
+{"id": "human_027", "intent": "complaint_frustration", "tweet": "Spent $3k on gear and nothing works. Done with Apple!", "human_faithfulness": 4, "human_tone": 5, "human_resolution": 3, "human_brand_voice": 4}
+{"id": "human_028", "intent": "complaint_frustration", "tweet": "Filing formal complaint with FTC and BBB!", "human_faithfulness": 5, "human_tone": 5, "human_resolution": 4, "human_brand_voice": 5}
+{"id": "human_029", "intent": "spam_or_irrelevant", "tweet": "Apple sucks lol Android for life 💀", "human_faithfulness": 4, "human_tone": 4, "human_resolution": 4, "human_brand_voice": 4}
+{"id": "human_030", "intent": "spam_or_irrelevant", "tweet": "Happy Friday @AppleSupport hope you have a nice weekend!", "human_audio": 5, "human_faithfulness": 5, "human_tone": 5, "human_resolution": 5, "human_brand_voice": 5}
